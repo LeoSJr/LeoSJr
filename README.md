@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeoSJr
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...How to code and how to create a website
-- 💞️ I’m looking to collaborate on ...making a good website
+- 💞️ I’m looking to collaborate on ...helping a comapny to create a good website
 - 📫 How to reach me ...leonardswedi@gmail.com
 
 <!---
